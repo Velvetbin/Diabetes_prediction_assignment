@@ -1,4 +1,5 @@
 # Diabetes_prediction_assignment
+An uni assignment that ask student to predict the status of whether a patient is having pre/diabetes or not based on a public medical dataset
 
 Setup Instructions
 Prerequisites
